@@ -39,7 +39,6 @@ apis:
   - name: ORB Intelligence
     description: "Company lookup"
     humanURL: https://api.orb-intelligence.com/docs/
-    baseURL: https://api.orb-intelligence.com/docs/
     tags:
       - Business
     properties:
